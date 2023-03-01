@@ -8,7 +8,7 @@ We commonly need to know what platform you are on:
 
 # How to contribute
 
-We definitely welcome patches and contributions to Tongsuo-Java-SDK! Here are some
+We definitely welcome patches and contributions to Alibaba Dragonwell Security Provider! Here are some
 guideline and information about how to do so.
 
 ## Before getting started
@@ -31,7 +31,7 @@ beforehand.
 Make sure that `./gradlew check` (`gradlew check` on Windows) completes
 successfully without any new warnings (see [Building](BUILDING.md)). Then create a Pull Request
 with your changes. When the changes are accepted, they will be merged or cherry-picked by
-a Tongsuo-Java-SDK developer.
+a Alibaba Dragonwell Security Developer.
 
 ## Source Overview
 
